@@ -1,0 +1,17 @@
+
+Name = ali
+ Last Name =esa 
+ Gender Code = e 
+ Tarih = 12-21-21 
+
+Name = ugur
+ Last Name =usengec 
+ Gender Code = e 
+ Tarih = 12-21-21 
+
+ from Istanbul to = Bursa
+ Your seat number is:77
+ Your seat number is:21
+ from Izmir to Bursa
+ Your seat number is:44
+ Your seat number is:39

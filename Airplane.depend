@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1576326100 source:c:\users\calpe\onedrive\masaüstü\c proje\main.c
+	<stdio.h>
+	"helpers.h"
+
+1577097417 c:\users\calpe\onedrive\masaüstü\c proje\helpers.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+
